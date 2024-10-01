@@ -22,6 +22,9 @@
 
 ![video-smile](video-smile.png)
 
+#### 6. Волонтёрство
+
+![volunteering](volunteering.png)
 
 
 ##### 📑 Ссылки на социальные сети:
