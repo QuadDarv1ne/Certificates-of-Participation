@@ -14,7 +14,8 @@
 #### 4. Introduction to DevOps by IBM
 ![Coursera 2EZDKZB3GY7Q](https://github.com/QuadDarv1ne/Certificates-of-Participation/assets/51045274/efac323f-b572-4702-9d52-cc268b7d58bb)
 
-#### 5. ![video-smile](video-smile.png)
+#### 5. Creating a 3D game model from Blender
+![video-smile](video-smile.png)
 
 
 
