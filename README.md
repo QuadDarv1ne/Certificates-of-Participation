@@ -14,7 +14,14 @@
 #### 4. Introduction to DevOps by IBM
 ![Coursera 2EZDKZB3GY7Q](https://github.com/QuadDarv1ne/Certificates-of-Participation/assets/51045274/efac323f-b572-4702-9d52-cc268b7d58bb)
 
+#### 5. ![video-smile](video-smile.png)
+
+
+
 ##### 📑 Ссылки на социальные сети:
+
 ##### 🏷️1. [YouTube channel](https://www.youtube.com/channel/UCqA5pl9NkVDrirMDlNVmU7g "«Хижина программиста»")
+
 ##### 🏷️2. [Наука и Техника 𖤍](https://vk.com/science_geeks "Scientific, technological and educational community 𖤍")
+
 ##### 🏷️3. [Courses by Stepik](https://stepik.org/users/150943726/teach "Professor: Dupley Maxim Igorevich")
