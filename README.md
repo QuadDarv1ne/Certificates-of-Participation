@@ -47,6 +47,8 @@
 
 ![Инфографика](<Planeta_ru/cert-png (1).png>)
 
+#### 16. Project management. From theory to practice - RUDN
+
 ##### 📑 Ссылки на социальные сети:
 
 ##### 🏷️1. [YouTube channel](https://www.youtube.com/channel/UCqA5pl9NkVDrirMDlNVmU7g "«Хижина программиста»")
