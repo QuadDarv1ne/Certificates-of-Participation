@@ -54,6 +54,9 @@
 #### 17. History of International Relations and Foreign Policy of - RUDN
 ![Инфографика](https://github.com/user-attachments/assets/7993eb00-b40e-41d6-9552-76c1af2723d7)
 
+#### 18. Благодарственное письмо АНО ВО «Университет Иннополис» Дуплей Максим Игоревич
+![Инфографика](https://github.com/user-attachments/assets/721f8199-dbe1-4b61-95a9-ef73902f7002)
+
 ##### 📑 Ссылки на социальные сети:
 
 ##### 🏷️1. [YouTube channel](https://www.youtube.com/channel/UCqA5pl9NkVDrirMDlNVmU7g "«Хижина программиста»")
