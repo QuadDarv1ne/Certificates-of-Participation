@@ -48,6 +48,11 @@
 ![Инфографика](<Planeta_ru/cert-png (1).png>)
 
 #### 16. Project management. From theory to practice - RUDN
+![Инфографика](https://github.com/user-attachments/assets/560f202a-08fd-4ffb-80da-353b50e56b89)
+
+
+#### 17. History of International Relations and Foreign Policy of - RUDN
+![Инфографика](https://github.com/user-attachments/assets/7993eb00-b40e-41d6-9552-76c1af2723d7)
 
 ##### 📑 Ссылки на социальные сети:
 
