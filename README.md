@@ -71,3 +71,5 @@
 ##### 🏷️2. [Наука и Техника 𖤍](https://vk.com/science_geeks "Scientific, technological and educational community 𖤍")
 
 ##### 🏷️3. [Courses by Stepik](https://stepik.org/users/150943726/teach "Professor: Dupley Maxim Igorevich")
+
+[![maestro7it_education](https://api.star-history.com/svg?repos=QuadDarv1ne/Certificates-of-Participation&type=Date)](https://star-history.com/#QuadDarv1ne/Certificates-of-Participation&Date)
